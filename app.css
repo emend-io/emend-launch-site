@@ -1,0 +1,25 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #212529;
+}
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .85);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .85);
+}
+
+
+.coming-soon-text {
+  text-align: center;
+  margin-top: 40vh;
+}
